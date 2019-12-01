@@ -1,4 +1,4 @@
-function MyCG(A, b)
+function MyCG(M, b)
 
 m=length(A); x=MyZeros(m,1); % set x=0 as IC
 
